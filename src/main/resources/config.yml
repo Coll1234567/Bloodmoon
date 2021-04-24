@@ -1,0 +1,6 @@
+data-save-interval: 10
+
+worlds:
+  world:
+    enabled: true
+    chance: 5.0
